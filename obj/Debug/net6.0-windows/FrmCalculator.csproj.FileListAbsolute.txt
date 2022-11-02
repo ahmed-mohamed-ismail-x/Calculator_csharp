@@ -1,0 +1,36 @@
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.exe
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.deps.json
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.runtimeconfig.json
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.AssemblyReference.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.GenerateResource.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfoInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfo.cs
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\refint\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.genruntimeconfig.cache
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\ref\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.FrmCalc.resources
+C:\Users\ahmedmohamedismail\source\repos\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.Properties.Resources.resources
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.exe
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.deps.json
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.runtimeconfig.json
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\bin\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.AssemblyReference.cache
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.FrmCalc.resources
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.Properties.Resources.resources
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.GenerateResource.cache
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfoInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.AssemblyInfo.cs
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\refint\FrmCalculator.dll
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.pdb
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\FrmCalculator.genruntimeconfig.cache
+C:\Users\ahmedmohamedismail\source\repos\BI ITP Mansoura C# Lab 9 & 10 (Ahmed Mohamed Ismail)\Lab_9\FrmCalculator\obj\Debug\net6.0-windows\ref\FrmCalculator.dll
